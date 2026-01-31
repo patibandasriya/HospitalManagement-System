@@ -10,30 +10,11 @@ Simple and User-Friendly UI
 
 🛠 Technologies Used
 
-ASP.NET Core
-
-C#
-
-Razor Pages
-
-HTML5
-
-CSS3
-
-Visual Studio
-
-GitHub
+ASP.NET Core , C# , GitHub , Razor Pages , HTML5, CSS3 , Visual Studio, GitHub
 
 💻 Platform Requirements
 
-Windows OS
-
-Visual Studio 2022 or above
-
-.NET SDK
-
-Web Browser (Chrome / Edge)
-
+Windows OS , Visual Studio 2022 or above , .NET SDK , Web Browser (Chrome / Edge)
 🚀 How To Run The Project
 
 Download or Clone the repository
