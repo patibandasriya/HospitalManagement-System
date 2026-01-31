@@ -1,0 +1,27 @@
+﻿@page
+@model HospitalManagementSystem.Pages.PatientModel
+
+<h2>Patient Registration</h2>
+
+<form method="post">
+
+    <input type="text" name="name" placeholder="Name" required />
+    <br /><br />
+
+    <input type="text" name="age" placeholder="Age" required />
+    <br /><br />
+
+    <input type="text" name="gender" placeholder="Gender" required />
+    <br /><br />
+
+    <input type="text" name="disease" placeholder="Disease" required />
+    <br /><br />
+
+    <input type="text" name="mobile" placeholder="Mobile Number" required />
+    <br /><br />
+
+    <button type="submit">Register Patient</button>
+
+</form>
+
+<p>@Model.StatusMessage</p>
