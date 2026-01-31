@@ -43,4 +43,4 @@ ASP.NET Core Developer (Fresher Project)
 
 🔗 GitHub Repository Link
 
-https://github.com/patibandasriya/HospitalManagementSystem
+https://github.com/patibandasriya/HospitalManagement-System.git
