@@ -1,21 +1,11 @@
 # HospitalManagementSystem
-)
 📌 Project Description
 
 The Hospital Management System is a web-based application developed using ASP.NET Core Razor Pages. This project helps manage hospital operations such as patient registration and basic user authentication. It provides an easy-to-use interface for handling hospital data efficiently.
 
 🎯 Features
 
-Patient Registration Module
-
-Login System
-
-Form Validation
-
-Success Message Display
-
-Responsive Web Interface
-
+Patient Registration Module , Login System , Form Validation , Success Message Display, Responsive Web Interface , 
 Simple and User-Friendly UI
 
 🛠 Technologies Used
